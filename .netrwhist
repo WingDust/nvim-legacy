@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='H:/ElectronProject/Electron_Vue/electron-vue-vite'
+let g:netrw_dirhist_5='H:/ElectronProject/Electron_Vue'
+let g:netrw_dirhist_4='H:/ElectronProject/monaco/node_modules/monaco-editor/esm/vs/base/browser'
+let g:netrw_dirhist_3='H:/ElectronProject/monaco/node_modules/monaco-editor/esm/vs/base'
+let g:netrw_dirhist_2='H:/ElectronProject/monaco/node_modules/monaco-editor/esm/vs'
+let g:netrw_dirhist_1='H:/ElectronProject/monaco/node_modules/monaco-editor/esm'
+let g:netrw_dirhist_0='H:\ElectronProject\monaco\node_modules\monaco-editor'
+let g:netrw_dirhist_9='E:\spacemacs\emacs26-3\.spacemacs.d'
+let g:netrw_dirhist_8='H:/ElectronProject/Electron_Vue/vite-Vue3-Vuex4-electron-TypeScript-tailwindcss'
+let g:netrw_dirhist_7='C:/Users/Administrator/AppData/Local/nvim/container'
